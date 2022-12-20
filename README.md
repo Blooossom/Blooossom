@@ -3,9 +3,8 @@
 <img src="https://img.shields.io/badge/Notion-dodgerblue?style=flat&logo=Notion&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/></a>#6DB33F
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blooossom&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 
