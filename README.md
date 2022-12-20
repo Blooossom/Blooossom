@@ -2,7 +2,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlooossom&count_bg=%23F9E2DE&title_bg=%23F7CCCC&icon=&icon_color=%23D5D3D3&title=hits&edge_flat=false)
 
 ![Blooossom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blooossom&theme=dracula&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taegyeong19)](https://solved.ac/taegyeong19/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=taegyeong19)](https://solved.ac/taegyeong19/)
 
 # Skills
 
