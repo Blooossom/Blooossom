@@ -1,7 +1,8 @@
+<div>
 <a href="https://palm-acapella-56e.notion.site/f034ca531b80448a9107e98e55eaf1fb?v=aec0ba6e4da042b7a8f0a2b3875bf28d" target="_blank">
 <img src="https://img.shields.io/badge/Notion-dodgerblue?style=flat&logo=Notion&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring-yellowgreen?style=flat&logo=Spring&logoColor=white"/></a>
-
+</div>
 
 
 
