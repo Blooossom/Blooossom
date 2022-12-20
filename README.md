@@ -4,7 +4,7 @@
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blooossom&theme=dark&show_icons=true)
+![Blooossom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blooossom&theme=dark&show_icons=true)
 
 
 
