@@ -24,12 +24,13 @@
 <a href="https://palm-acapella-56e.notion.site/f034ca531b80448a9107e98e55eaf1fb?v=aec0ba6e4da042b7a8f0a2b3875bf28d" target="_blank">
 <img src="https://img.shields.io/badge/TechBlog-dodgerblue?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
+<!--
 ## etc...
 
 
 ![Blooossom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blooossom&theme=dracula&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=taegyeong19)](https://solved.ac/taegyeong19/)
-
+-->
 
 
 <!--
